@@ -1,0 +1,9 @@
+Observed trend 1 : 
+  Urban has more short distance rides than the rest. 
+  Urban area has more rides but its average fee is lower. 1/3 of total rides happends in urban area.
+Observed trend 2 :
+  Urban has more drivers. 
+  Because the plot side is larger. 86% of total drivers come from urban area.
+Observed trend 3 :
+  Most of fares come from urban area but the distance of riders tend to longer.
+  Because 62% of total fares come from rural area but its average fare is higher.
